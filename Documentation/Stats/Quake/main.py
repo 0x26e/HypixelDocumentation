@@ -53,7 +53,7 @@
 	shots_fired_solo_tourney, # Total shots fired in the solo tournament gamemode
 	shots_fired_teams, # Total shots fired in the teams gamemode (Tracked since Feb 2017)
 	showDashCooldown, # Boolean setting for toggling the dash cooldown indicator
-	showKillPrefix, # Boolean setting for if you have kill prefixes turned on
+	showKillPrefix, # Boolean setting for showing your kill prefix in front of your name in chat
 	sight, # Currently equipped weapon laser, see lasers
 	trigger, # Currently equipped weapon trigger, see triggers
 	wins, # Total wins in the solo gamemode (Tracked since Oct 2013)
