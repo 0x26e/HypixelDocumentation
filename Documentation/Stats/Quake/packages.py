@@ -29,16 +29,16 @@
 	budderkit_boots, # Armor Cosmetic: Budder boots
 	budderkit_leggings, # Armor Cosmetic: Budder leggings
 	cactus, # Armor Cosmetic: Cactus hat
-	case.diamond_hoe, # Weapon Part: 
-	case.gold_hoe, # Weapon Part: 
-	case.iron_hoe, # Weapon Part: 
-	case.shiny_diamond_hoe, # Weapon Part: 
-	case.shiny_gold_hoe, # Weapon Part: 
-	case.shiny_iron_hoe, # Weapon Part: 
-	case.shiny_stone_hoe, # Weapon Part: 
-	case.shiny_wood_hoe, # Weapon Part: 
-	case.stone_hoe, # Weapon Part: 
-	case.wood_hoe, # Weapon Part: 
+	case.diamond_hoe, # Weapon Part: Bling casing
+	case.gold_hoe, # Weapon Part: Plated casing
+	case.iron_hoe, # Weapon Part: Reinforced casing
+	case.shiny_diamond_hoe, # Weapon Part: Polished Bling casing
+	case.shiny_gold_hoe, # Weapon Part: Polished Plated casing
+	case.shiny_iron_hoe, # Weapon Part: Polished Reinforced casing
+	case.shiny_stone_hoe, # Weapon Part: Polished Marbled casing
+	case.shiny_wood_hoe, # Weapon Part: Varnished Wood casing
+	case.stone_hoe, # Weapon Part: Marbled casing
+	case.wood_hoe, # Weapon Part: Wooden casing
 	cavemanhat, # Armor Cosmetic: Caveman hat
 	cold_war, # Having bought the map "Cold War" (before October 10th 2013)
 	commander, # Armor Cosmetic: Commander hat
@@ -179,7 +179,7 @@
 	walkingdeadhat, # Armor Cosmetic: Walking Dead hat
 	win.apple, # Have the achievement `Win while using the Apple Corer`
 	win.basic, # Have the achievement `Win while using the Basic railgun`
-	win.bizarre, # Have the achievement `Win while using the Bizarre`
+	win.bizarre, # Have the achievement `Win while using the Le Bizarre`
 	win.bfg, # Have the achievement `Win while using the BFG` 
 	win.bling, # Have the achievement `Win while using the Bling Bling Thing`
 	win.blue_lagoon, # Have the achievement `Win while using the Blue Lagoon`
