@@ -81,7 +81,7 @@
 	teleboom, # Void Crawler ability "Teleboom"
 	throw_cake, # Cake Monster ability "Regurgicake"
 	void_slash, # Void Crawler ability "Void Slash"
-	wall_climber, # ???????????????????????????????
+	wall_climber, # Spooderman ability "Wall Climb"
 	web_shot, # Spooderman ability "Web Shot"
 	werepug, # Pug ability "Intruders!"
 	wins, # Total wins while using x class
